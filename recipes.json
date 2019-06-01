@@ -1,4 +1,4 @@
-"recipes"[
+{"recipes"[
   {
     "id": 1,
     "name": "Nutella Pie",
@@ -530,4 +530,4 @@
     "servings": 8,
     "image": ""
   }
-]
+]}
